@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranilash
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Android Development via Kotlin
+- 🌱 I’m currently learning Android Development via Flutter
 - 💞️ I’m looking to collaborate on any Open Source Projects
 - 📫 How to reach me : github/Pranilash
 
