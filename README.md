@@ -1,86 +1,83 @@
 # Hi, I'm Pranilash 👋
 
-CS student at **IIIT Lucknow** with minor in Business, interested in building scalable web systems, experimenting with real-time architectures, and solving algorithmic problems.
+Computer Science student at **IIIT Lucknow** with a minor in Business.  
+I enjoy building scalable web systems, experimenting with real-time architectures, and solving algorithmic problems.
 
 Currently exploring **React / Next.js applications**, **backend systems**, and **blockchain-based platforms**.
 
 ---
 
-## Things I've Built
+# Projects
 
-### ShareNet
+## ShareNet
 Multi-tenant campus marketplace platform.
 
-- React + Node.js full-stack application  
-- Real-time chat using Socket.IO  
-- Marketplace workflows powered by 30+ REST APIs  
-- Domain-scoped architecture supporting multiple college ecosystems  
+- Full-stack application built with **React, Node.js, Express, and MongoDB**
+- **Real-time messaging** and activity updates using Socket.IO
+- Marketplace workflows powered by **30+ REST APIs**
+- **Domain-scoped architecture** supporting isolated ecosystems across multiple college domains
 
-Repo:  
+Repository:  
 https://github.com/pranilash/sharenet-web
 
 ---
 
-### SnapTix (**HackHazards’25 Track Winner** — Top 100 among 15,000+ teams)
+## SnapTix  
+*(HackHazards’25 Track Winner — Top 100 / 15,000 teams)*
+
 Decentralized event ticketing platform using NFTs.
 
+- Built with **Next.js App Router**
+- Web3 wallet authentication and **NFT ticket minting**
+- Smart contracts implemented using **Solidity and Hardhat**
 
-
-- Next.js App Router frontend  
-- Wallet authentication and NFT ticket minting  
-- Smart contracts built with Solidity and Hardhat  
-
-Repo:  
+Repository:  
 https://github.com/PIYUSH-NAYAK/SnapTix
 
 ---
 
-### Gyo.Ai
+## Gyo.Ai
 AI-powered fitness assistant that analyzes exercise posture.
 
-- Real-time pose detection using MediaPipe  
-- Flutter-based mobile interface  
-- Designed for scalable movement tracking  
+- Real-time pose detection using **MediaPipe computer vision models**
+- Flutter-based mobile interface
+- Designed for scalable movement tracking systems
 
-Repo:  
+Repository:  
 https://github.com/Pranilash/GyoAi
 
 ---
 
-## Tech I Use
+# Tech I Use
 
-**Languages**
+### Languages
+C++ · TypeScript · JavaScript · Python
 
-C++ • TypeScript • JavaScript • Python  
+### Frontend
+React · Next.js · Tailwind CSS
 
-**Frontend**
+### Backend
+Node.js · Express
 
-React • Next.js • Tailwind CSS  
-
-**Backend**
-
-Node.js • Express  
-
-**Databases**
-
-MongoDB • Firebase  
+### Databases
+MongoDB · Firebase
 
 ---
 
-## Competitive Programming
+# Competitive Programming
 
-- CodeChef **4★**
-- Codeforces **Specialist**
-- 800+ problems solved across various platforms like LeetCode, Codeforces, Codechef, GFG
+- **CodeChef 4★**
+- **Codeforces Specialist**
+- Solved **800+ problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
 
 ---
 
-## GitHub Stats 📊 
+# GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranilash&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranilash&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranilash&layout=compact&theme=radical)
 
 ---
 
-Feel free to explore my repositories.
+Feel free to explore the repositories and projects.
