@@ -1,84 +1,86 @@
-# Pranilash Reddy Pesara 
+# Hi, I'm Pranilash 👋
 
-![GitHub followers](https://img.shields.io/github/followers/pranilash?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/pranilash?style=social)
-![GitHub forks](https://img.shields.io/github/forks/pranilash?style=social)
+CS student at **IIIT Lucknow** with minor in Business, interested in building scalable web systems, experimenting with real-time architectures, and solving algorithmic problems.
 
----
-
-### About Me
-
-🔹 **B.Tech in Computer Science and Business** | **Indian Institute of Information Technology, Lucknow**  
+Currently exploring **React / Next.js applications**, **backend systems**, and **blockchain-based platforms**.
 
 ---
 
-## Projects 🛠️
+## Things I've Built
 
-### **SnapTix** *(W Apr 2025)*  
-![SnapTix](https://img.shields.io/badge/Project-SnapTix-blue)
-**Tech Stack**: Groq LLM, Fluvio, Base, Hardhat, NextJS
+### ShareNet
+Multi-tenant campus marketplace platform.
 
-- Engineered a real-time NFT-based event ticketing system with blockchain verification on **Base** and smart contract development using **Hardhat**.
-- Integrated **Fluvio** for live event streams and **Groq LLM** for personalized event discovery via an **AI-powered chat interface**.
-- Simulated testing for over **100 users**.
+- React + Node.js full-stack application  
+- Real-time chat using Socket.IO  
+- Marketplace workflows powered by 30+ REST APIs  
+- Domain-scoped architecture supporting multiple college ecosystems  
 
----
-
-### **ShareNet** *(Sep 2024)*  
-![ShareNet](https://img.shields.io/badge/Project-ShareNet-blue)
-**Tech Stack**: Kotlin, Android Studio, Firebase
-
-- Developed a mobile-first community platform using **Kotlin** and **Android Studio**, with responsive **XML layouts** and real-time item listing/request features.
-- Integrated **Firebase Realtime Database**, implemented clean architecture, and used **Git** for scalable, maintainable code collaboration.
+Repo:  
+https://github.com/pranilash/sharenet-web
 
 ---
 
-### **Gyo.Ai** *(Apr 2024)*  
-![Gyo.Ai](https://img.shields.io/badge/Project-Gyo.Ai-blue)
-**Tech Stack**: Dart, MediaPipe, Hardhat, Google Cloud Console
+### SnapTix (**HackHazards’25 Track Winner** — Top 100 among 15,000+ teams)
+Decentralized event ticketing platform using NFTs.
 
-- Built during **HackOFiesta v5.0**, Gyo.Ai leverages blockchain and AI to securely analyze user fitness data for delivering personalized workout feedback and rewards.
-- Integrated **MediaPipe** for real-time pose tracking and **Google Cloud** for secure data handling.
 
----
 
-## Achievements 🏆
+- Next.js App Router frontend  
+- Wallet authentication and NFT ticket minting  
+- Smart contracts built with Solidity and Hardhat  
 
-- **Hackhazards '25 - Track Winner**: Secured 3rd place in **Fluvio track** and ranked among **top 100 teams** out of **15,000+ participants**, winning **$200**.
-- **CodeChef**: Achieved global ranks of **311** and **151** in **CodeChef Starters 178** and **184**, respectively, and currently a **4-Star** coder with a rating of **1808**.
-- **Codeforces**: Attained **Pupil** rank on **Codeforces** (Max Rating: **1370**).
-- **Google Cybersecurity Certificate**: Gained hands-on experience with **SIEM tools**, **Linux**, **SQL**, **Python**, and **incident response**.
-- **Incognito 6.0 CTF 2025**: Spearheaded the **Incognito 6.0 CTF 2025** competition, attracting **690+ teams** and **22,000 IPs** worldwide.
-- Solved **500+ coding problems** on **LeetCode**, **GeeksforGeeks**, and **Codeforces**.
+Repo:  
+https://github.com/PIYUSH-NAYAK/SnapTix
 
 ---
 
-## Technical Skills 💻
+### Gyo.Ai
+AI-powered fitness assistant that analyzes exercise posture.
 
-### **Languages**:
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- Real-time pose detection using MediaPipe  
+- Flutter-based mobile interface  
+- Designed for scalable movement tracking  
 
-### **Frameworks & Tools**:
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+Repo:  
+https://github.com/Pranilash/GyoAi
 
 ---
 
-## GitHub Stats 📊
+## Tech I Use
 
-![Pranilash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranilash&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+**Languages**
 
-![Pranilash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranilash&theme=radical)
+C++ • TypeScript • JavaScript • Python  
+
+**Frontend**
+
+React • Next.js • Tailwind CSS  
+
+**Backend**
+
+Node.js • Express  
+
+**Databases**
+
+MongoDB • Firebase  
 
 ---
 
-### **Thank You for Visiting My GitHub Profile!** 🙌
+## Competitive Programming
 
-Feel free to explore my repositories, projects, and achievements. 🚀
+- CodeChef **4★**
+- Codeforces **Specialist**
+- 800+ problems solved across various platforms like LeetCode, Codeforces, Codechef, GFG
+
+---
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=pranilash&show_icons=true&hide_title=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranilash&layout=compact)
+
+---
+
+Feel free to explore my repositories.
