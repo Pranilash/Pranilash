@@ -75,11 +75,11 @@ MongoDB • Firebase
 
 ---
 
-## GitHub Stats
+## GitHub Stats 📊 
 
-![stats](https://github-readme-stats.vercel.app/api?username=pranilash&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranilash&show_icons=true&theme=radical)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranilash&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranilash&layout=compact&theme=radical)
 
 ---
 
