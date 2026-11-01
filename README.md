@@ -24,17 +24,18 @@ A multi-tiered attendance platform engineered for university campuses to elimina
 
 ---
 
-### 2. [ShareNet](https://github.com/pranilash/sharenet-web)
+### 2. [ShareNet](https://github.com/Pranilash/ShareNet-Web)
 *Multi-Tenant Campus Resource Sharing & Circular Economy Platform*  
 **Production Deployment**: [https://sharenet-web-1.onrender.com](https://sharenet-web-1.onrender.com)
 
 A verified peer-to-peer campus marketplace designed to replace fragmented email and chat groups with structured, accountable exchanges.
 
-- **Multi-Tenant Domain Scoping**: Isolates catalog feeds and transactions by institutional email domain (`.ac.in`). Supports 100+ Indian university campuses with zero cross-tenant data leakage.
-- **Multi-Signal Recommendation Model**: Scores marketplace items dynamically from user behavior, category affinity, trust, and recency.
+- **Multi-Tenant Domain Scoping**: Isolates catalog feeds and transactions by institutional email domain (`.edu`, `.ac.in`). Supports 100+ Indian university campuses with zero cross-tenant data leakage.
+- **Multi-Signal Recommendation Model**: Scores marketplace items dynamically from user behavior, category affinity, trust, and recency:
   $$\text{Score} = 3 \cdot \text{CategoryAffinity} + 2 \cdot \text{RecencyBoost} + 1 \cdot \text{TrustSignal} + 1 \cdot \text{ModeRelevance}$$
-- **Real-Time Negotiation Engine**: Provides low-latency chat on Socket.IO with in-stream GPS meetup agreements and delivery confirmations.
-- **Structured Transaction Lifecycle**: Enforces a five-stage contract lifecycle: Request → Agreement → Active → Return → Complete. Includes automated reminders and dispute mediation.
+- **Tamper-Proof Lost & Found Pipeline**: Eliminates fraud via challenge-response security questions on found property claims. Gates recovery chat and handoff coordination behind owner-verified answers.
+- **Real-Time Negotiation & Wanted Board**: Provides low-latency chat on Socket.IO with in-stream GPS meetup agreements, image attachments, and reverse-marketplace bidding with urgency tiers.
+- **Production Architecture & Automated CI**: Enforces an auditable 6-stage contract lifecycle (Request → Agreement → Active → Return → Complete/Dispute) with behavioral trust ratings (0–100). Built with React 18, Express.js, MongoDB Atlas, and Socket.IO. Verified with 55 automated integration tests and a GitHub Actions CI pipeline.
 
 ---
 
@@ -66,7 +67,7 @@ A physical therapy and exercise tracking assistant focused on real-time biomecha
 
 ```
 Languages:        C++, TypeScript, JavaScript (ES6+), Python, Solidity, Dart, SQL
-Backend & Cloud:  Node.js, Express.js, Socket.IO, Redis, MongoDB Atlas, PostgreSQL, Vercel, Docker
+Backend & Cloud:  Node.js, Express.js, Socket.IO, Redis, MongoDB Atlas, PostgreSQL, Vercel, Docker, GitHub Actions (CI/CD)
 Frontend & Web:   React 18/19, Next.js (App Router), Vite, Tailwind CSS, Flutter, PWA (Workbox)
 Systems & ML:     face-api.js (WebGL Biometrics), Google MediaPipe, GROQ AI, WebSockets, Git
 ```
