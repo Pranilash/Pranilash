@@ -8,7 +8,7 @@ Focus areas: Distributed full-stack systems, real-time event architectures, clie
 
 ---
 
-## Featured Systems & Engineering Work
+## Projects that I have built
 
 ### 1. [Smart Attendance System](https://github.com/Pranilash/Attendance_App_v1)
 *Autonomous Biometric & Dynamic Rotating QR Academic Platform*  
