@@ -26,6 +26,7 @@ A multi-tiered attendance platform engineered for university campuses to elimina
 
 ### 2. [ShareNet](https://github.com/Pranilash/ShareNet-Web)
 *Multi-Tenant Campus Resource Sharing & Circular Economy Platform*  
+**Award**: [HackVision Winner](https://hackvision.devpost.com/project-gallery)  
 **Production Deployment**: [https://sharenet-web-1.onrender.com](https://sharenet-web-1.onrender.com)
 
 A verified peer-to-peer campus marketplace designed to replace fragmented email and chat groups with structured, accountable exchanges.
