@@ -34,9 +34,9 @@ A verified peer-to-peer campus marketplace designed to replace fragmented email 
 - **Multi-Tenant Domain Scoping**: Isolates catalog feeds and transactions by institutional email domain (`.edu`, `.ac.in`). Supports 100+ Indian university campuses with zero cross-tenant data leakage.
 - **Multi-Signal Recommendation Model**: Scores marketplace items dynamically from user behavior, category affinity, trust, and recency:
   $$\text{Score} = 3 \cdot \text{CategoryAffinity} + 2 \cdot \text{RecencyBoost} + 1 \cdot \text{TrustSignal} + 1 \cdot \text{ModeRelevance}$$
-- **Tamper-Proof Lost & Found Pipeline**: Eliminates fraud via challenge-response security questions on found property claims. Gates recovery chat and handoff coordination behind owner-verified answers.
+- **Atomic Concurrency & Anti-Fraud Gates**: Guarantees claim capacity safety via MongoDB conditional atomic writes; eliminates fraudulent lost-property claims via challenge-response security questions.
 - **Real-Time Negotiation & Wanted Board**: Provides low-latency chat on Socket.IO with in-stream GPS meetup agreements, image attachments, and reverse-marketplace bidding with urgency tiers.
-- **Production Architecture & Automated CI**: Enforces an auditable 6-stage contract lifecycle (Request → Agreement → Active → Return → Complete/Dispute) with behavioral trust ratings (0–100). Built with React 18, Express.js, MongoDB Atlas, and Socket.IO. Verified with 55 automated integration tests and a GitHub Actions CI pipeline.
+- **Production Architecture & Automated CI**: Enforces an auditable 6-stage contract state machine (Request → Agreement → Active → Return → Complete/Dispute) with behavioral trust ratings (0–100) and runtime Zod validation. Built with React 18, Express.js, MongoDB Atlas, and Socket.IO; verified with 74 automated tests on GitHub Actions.
 
 ---
 
